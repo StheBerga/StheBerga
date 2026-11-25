@@ -1,59 +1,38 @@
 # Hi, I'm Stefano Bergamini 👋
 
 ### Biostatistician · PhD Student · R Developer
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stheberga/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=000&labelColor=000)](https://github.com/StheBerga)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-8874-8537)
+[![Strava](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&labelColor=fff&logo=strava)](https://strava.app.link/8mmIQFzjm8b)
 
-I use **data science and statistical modelling to answer questions in biomedical research**. My work focuses on cancer research, immuno-oncology, and the analysis of complex biological datasets.
 
-I'm also passionate about programming, reproducible research, and building open-source tools that make data analysis more accessible.
-
----
 
 ## 🔬 About Me
 
-- 🎓 PhD Student in **Molecular Oncology and Tumor Immunology**
-- 🧬 Interested in **immuno-oncology, biomarker discovery, and computational immunology**
-- 📊 Working with **survival analysis, flow cytometry, proteomics, and RNA sequencing**
-- 💻 Building reproducible analytical workflows and tools, mainly in **R**
-- 🌱 Always exploring new methods, technologies, and ways to improve scientific data analysis
-- ☕ Fueled by coffee, curiosity, and a good coding challenge
-
-## 🛠️ Languages & Tools
-
-**Programming and data analysis**
-
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-<!-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) -->
-
-**Development and version control**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-**Research interests**
-
-`Biostatistics` · `Survival Analysis` · `Flow Cytometry` · `Proteomics` · `RNA-seq` · `Immuno-oncology`
+- 🔬 PhD Student in Molecular Oncology and Tumor Immunology @ Università d'Annunzio di Chieti-Pescara, in collaboration with the Traslational Immunology Unit @ Fondazione IRCCS Isituto Nazionale dei Tumori Milano
+- 🎓 Biostatistics @ Università degli Studi di Milano-Bicocca
+- 🎓 Biotechnologies @ Università degli Studi di Brescia
+- 🧬 Research focused on integrating flow-cytometry, proteomics, transcriptomics, and clinical data
+- 💻 Building reproducible analytical workflows for longitudinal data analysis
+- 📊 Data visualization enthusiast, always trying to find cool methods to display research (and non-research) results
+- 🏃🏼 Enjoy running, cycling, reading, watching sports
 
 ## 🚀 What I'm Working On
 
-- Developing **R tools and packages** for statistical analysis and data visualization.
-- Exploring computational approaches for **immune-cell profiling** and high-dimensional flow cytometry data.
-- Integrating clinical, proteomic, and transcriptomic data to investigate biomarkers and clinical outcomes.
-- Improving reproducibility and automation in biomedical research.
+- Developing R tools and packages for statistical analysis and data visualization.
+- Computational approaches for immune-cell profiling and high-dimensional flow cytometry data.
+- Longitudinal modeling of flow-cytometry data
+- Improving reproducibility and automation for biologists new to statistical softwares
+- Exploring innovative methods for automated collection, processing, and visualization of my activities, without paying for subscriptions
+
+![Activity Heatmap](https://raw.githubusercontent.com/StheBerga/activity-heatmap/main/activity-heatmap.svg)
 
 ## 📈 GitHub Overview
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=stheberga&theme=github_dark)
+<p align="center">
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=stheberga&count_private=true&show_icons=true&theme=github_dark" align = "center"/>
+<img width="40.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=stheberga&show_icons=true&locale=en&layout=compact&theme=github_dark" align = "center"/>
+<!-- <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stheberga&theme=github_dark" align = "center"/> -->
+</p>
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stheberga&theme=github_dark)
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stheberga&theme=github_dark)
-
-## 🤝 Connect With Me
-
-I'm always happy to connect with people working in biostatistics, computational biology, and open-source development.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stheberga/)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-8874-8537)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stefano_bergamini@icloud.com)
