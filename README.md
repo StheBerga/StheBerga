@@ -28,11 +28,19 @@
 
 ![Activity Heatmap](https://raw.githubusercontent.com/StheBerga/activity-heatmap/main/activity-heatmap.svg)
 
-## 📈 GitHub Overview
+<!-- ## 📈 GitHub Overview
+<!-- title_color=64C8F0&icon_color=64C8F0&bg_color_light=fff&bg_color_dark=161b22&text_color_light=000&text_color_dark=fff
+<table align="center" width="80%">
+  <tr>
+    <td align="center">
 
-<p align="center">
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=stheberga&count_private=true&show_icons=true&theme=github_dark" align = "center"/>
-<img width="40.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=stheberga&show_icons=true&locale=en&layout=compact&theme=github_dark" align = "center"/>
-<!-- <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stheberga&theme=github_dark" align = "center"/> -->
-</p>
+      <img src="https://github-stats-extended.vercel.app/api?username=stheberga&count_private=true&hide_rank=true&custom_title=My%20GitHub%20statistics&show_icons=true&include_all_commits=true&
+title_color=64C8F0&icon_color=64C8F0&bg_color_light=fff&bg_color_dark=161b22&text_color_light=000&text_color_dark=fff" height="80%" />
+    </td>
+    <td align="center">
 
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=stheberga&layout=compact&langs_count=4&
+title_color=64C8F0&icon_color=64C8F0&bg_color_light=fff&bg_color_dark=161b22&text_color_light=000&text_color_dark=fff" height="100%" />
+    </td>
+  </tr>
+</table> -->
