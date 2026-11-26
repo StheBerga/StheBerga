@@ -28,19 +28,11 @@
 
 ![Activity Heatmap](https://raw.githubusercontent.com/StheBerga/activity-heatmap/main/activity-heatmap.svg)
 
-<!-- ## 📈 GitHub Overview
-<!-- title_color=64C8F0&icon_color=64C8F0&bg_color_light=fff&bg_color_dark=161b22&text_color_light=000&text_color_dark=fff
-<table align="center" width="80%">
-  <tr>
-    <td align="center">
+## 📈 GitHub Overview
 
-      <img src="https://github-stats-extended.vercel.app/api?username=stheberga&count_private=true&hide_rank=true&custom_title=My%20GitHub%20statistics&show_icons=true&include_all_commits=true&
-title_color=64C8F0&icon_color=64C8F0&bg_color_light=fff&bg_color_dark=161b22&text_color_light=000&text_color_dark=fff" height="80%" />
-    </td>
-    <td align="center">
-
-      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=stheberga&layout=compact&langs_count=4&
-title_color=64C8F0&icon_color=64C8F0&bg_color_light=fff&bg_color_dark=161b22&text_color_light=000&text_color_dark=fff" height="100%" />
-    </td>
-  </tr>
-</table> -->
+<div align="center">
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=stheberga&count_private=true&hide_rank=true&custom_title=My%20GitHub%20statistics&show_icons=true&include_all_commits=true&card_width=350&title_color=64C8F0&icon_color=64C8F0&bg_color_light=fff&bg_color_dark=161b22&text_color_light=000&text_color_dark=fff&text_bold=false" />
+    <img
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=stheberga&layout=compact&langs_count=4&card_width=0.15&title_color=64C8F0&icon_color=64C8F0&bg_color_light=fff&bg_color_dark=161b22&text_color_light=000&text_color_dark=fff" />
+</div>
