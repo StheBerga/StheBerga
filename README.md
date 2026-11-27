@@ -26,7 +26,8 @@
 - Improving reproducibility and automation for biologists new to statistical softwares
 - Exploring innovative methods for automated collection, processing, and visualization of my activities, without paying for subscriptions
 
-![Activity Heatmap](https://raw.githubusercontent.com/StheBerga/activity-heatmap/main/activity-heatmap.svg)
+![Activity Heatmap](https://raw.githubusercontent.com/StheBerga/activity-heatmap/main/activity-heatmap-dark.svg#gh-dark-mode-only)
+![Activity Heatmap](https://raw.githubusercontent.com/StheBerga/activity-heatmap/main/activity-heatmap-light.svg#gh-light-mode-only)
 
 ## 📈 GitHub Overview
 
